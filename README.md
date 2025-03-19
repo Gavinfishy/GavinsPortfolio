@@ -13,7 +13,7 @@ Welcome to my portfolio! This website showcases my projects, work experience, sk
 - **Bootstrap** – For responsive and modern UI design.
 
 ## Live Demo
-[View My Portfolio]([https://yourgithubusername.github.io/](https://gavinfishy.github.io/GavinsPortfolio/))
+[View My Portfolio](https://gavinfishy.github.io/GavinsPortfolio/)
 
 
 
